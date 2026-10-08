@@ -2075,30 +2075,40 @@
 		)
 	)
 	(junction
-		(at 55.88 105.41)
+		(at 55.88 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c76038c4-59be-481a-ab5a-326c6b49c62d")
+		(uuid "ef2d6193-772c-4b04-8a59-6273c61f6023")
 	)
 	(wire
 		(pts
-			(xy 45.72 106.68) (xy 45.72 101.6)
+			(xy 55.88 102.87) (xy 55.88 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0099f193-1c2e-4c73-aad9-c09f71a1054f")
+		(uuid "06ab4164-5781-4b68-9669-3cefd087828a")
 	)
 	(wire
 		(pts
-			(xy 55.88 105.41) (xy 55.88 106.68)
+			(xy 55.88 104.14) (xy 55.88 105.41)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "01cd1e18-56a4-46d8-a907-1a233477fc5c")
+		(uuid "4a8082da-4185-46bc-82e3-ab19ff885841")
+	)
+	(wire
+		(pts
+			(xy 45.72 104.14) (xy 55.88 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59ce58c2-d93a-4741-a931-630de5f15035")
 	)
 	(wire
 		(pts
@@ -2112,16 +2122,6 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 102.87) (xy 55.88 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8db74704-9362-4476-a4ab-db456db330c6")
-	)
-	(wire
-		(pts
 			(xy 92.71 120.65) (xy 92.71 123.19)
 		)
 		(stroke
@@ -2132,13 +2132,13 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 106.68) (xy 45.72 106.68)
+			(xy 45.72 101.6) (xy 45.72 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bdec809a-48ac-497b-8185-715a14f0b0d1")
+		(uuid "a749e354-a2ff-4865-8a47-f6dac82edeb2")
 	)
 	(symbol
 		(lib_id "Device:R")
