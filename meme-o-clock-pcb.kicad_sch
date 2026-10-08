@@ -2260,7 +2260,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 129.54 58.42 0)
+		(at 36.83 116.84 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2271,7 +2271,7 @@
 		(fields_autoplaced yes)
 		(uuid "4417c963-d88b-4e5b-9086-a105a6636fb6")
 		(property "Reference" "SW2"
-			(at 129.54 50.8 0)
+			(at 36.83 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2281,7 +2281,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 129.54 53.34 0)
+			(at 36.83 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2291,7 +2291,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 129.54 53.34 0)
+			(at 36.83 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2302,7 +2302,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 129.54 53.34 0)
+			(at 36.83 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2313,7 +2313,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 129.54 58.42 0)
+			(at 36.83 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
