@@ -902,12 +902,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(junction
-		(at 113.03 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0020b9ad-0c67-44dc-baee-3f9372b7cf18")
-	)
 	(wire
 		(pts
 			(xy 110.49 77.47) (xy 113.03 77.47)
@@ -916,17 +910,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "1917ee69-1e05-449b-8c80-2ca21270203d")
-	)
-	(wire
-		(pts
-			(xy 113.03 77.47) (xy 114.3 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce00484c-3e3d-4da6-9e24-c4cfd3f3052b")
+		(uuid "890bbc25-8699-472c-9ecb-cc836e2d8b3d")
 	)
 	(symbol
 		(lib_id "MCU_Module:Arduino_Nano_ESP32")
