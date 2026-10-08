@@ -2744,7 +2744,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 31.75 80.01 0)
+		(at 24.13 120.65 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2755,7 +2755,7 @@
 		(fields_autoplaced yes)
 		(uuid "7edf4666-d79b-46a7-8fe2-b7842ee6f79b")
 		(property "Reference" "C2"
-			(at 35.56 78.7399 0)
+			(at 27.94 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2766,7 +2766,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 35.56 81.2799 0)
+			(at 27.94 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2777,7 +2777,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 32.7152 83.82 0)
+			(at 25.0952 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2788,7 +2788,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 31.75 80.01 0)
+			(at 24.13 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2799,7 +2799,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 31.75 80.01 0)
+			(at 24.13 120.65 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3068,7 +3068,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 46.99 69.85 0)
+		(at 15.24 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3079,7 +3079,7 @@
 		(fields_autoplaced yes)
 		(uuid "a911ff11-9162-49d2-80a6-514831d5234b")
 		(property "Reference" "C3"
-			(at 50.8 68.5799 0)
+			(at 19.05 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3090,7 +3090,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 50.8 71.1199 0)
+			(at 19.05 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3101,7 +3101,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 47.9552 73.66 0)
+			(at 16.2052 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3112,7 +3112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 69.85 0)
+			(at 15.24 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3123,7 +3123,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 46.99 69.85 0)
+			(at 15.24 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
