@@ -2074,6 +2074,32 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 55.88 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c76038c4-59be-481a-ab5a-326c6b49c62d")
+	)
+	(wire
+		(pts
+			(xy 45.72 106.68) (xy 45.72 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0099f193-1c2e-4c73-aad9-c09f71a1054f")
+	)
+	(wire
+		(pts
+			(xy 55.88 105.41) (xy 55.88 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01cd1e18-56a4-46d8-a907-1a233477fc5c")
+	)
 	(wire
 		(pts
 			(xy 110.49 77.47) (xy 113.03 77.47)
@@ -2083,6 +2109,16 @@
 			(type default)
 		)
 		(uuid "890bbc25-8699-472c-9ecb-cc836e2d8b3d")
+	)
+	(wire
+		(pts
+			(xy 55.88 102.87) (xy 55.88 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8db74704-9362-4476-a4ab-db456db330c6")
 	)
 	(wire
 		(pts
@@ -2096,13 +2132,13 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 102.87) (xy 55.88 105.41)
+			(xy 55.88 106.68) (xy 45.72 106.68)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fc1cb02d-a3b8-4fb4-973f-2f4f75b5676f")
+		(uuid "bdec809a-48ac-497b-8185-715a14f0b0d1")
 	)
 	(symbol
 		(lib_id "Device:R")
