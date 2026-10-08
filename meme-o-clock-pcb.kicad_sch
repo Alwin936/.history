@@ -2199,7 +2199,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "100n"
 			(at 41.91 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3171,7 +3171,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 55.88 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
