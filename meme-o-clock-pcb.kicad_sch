@@ -2074,15 +2074,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(bus_entry
-		(at 57.15 102.87)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5cb4d666-1a72-439e-9b92-a51df89d0b62")
-	)
 	(wire
 		(pts
 			(xy 110.49 77.47) (xy 113.03 77.47)
