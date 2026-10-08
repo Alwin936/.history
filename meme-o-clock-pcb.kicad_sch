@@ -2076,6 +2076,16 @@
 	)
 	(wire
 		(pts
+			(xy 55.88 90.17) (xy 55.88 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32a16470-6f1e-4186-aaba-85b2bb300845")
+	)
+	(wire
+		(pts
 			(xy 110.49 77.47) (xy 113.03 77.47)
 		)
 		(stroke
@@ -2093,6 +2103,16 @@
 			(type default)
 		)
 		(uuid "8f4d8480-2c70-4db0-8aaf-84605d81a17b")
+	)
+	(wire
+		(pts
+			(xy 55.88 102.87) (xy 55.88 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc1cb02d-a3b8-4fb4-973f-2f4f75b5676f")
 	)
 	(symbol
 		(lib_id "Device:R")
