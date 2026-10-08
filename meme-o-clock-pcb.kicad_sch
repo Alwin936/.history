@@ -2340,7 +2340,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 53.34 90.17 0)
+		(at 55.88 86.36 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2351,7 +2351,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e4abe76-6a3e-44df-a41f-0ebf408762c5")
 		(property "Reference" "R1"
-			(at 55.88 88.8999 0)
+			(at 58.42 85.0899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2362,7 +2362,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 55.88 91.4399 0)
+			(at 58.42 87.6299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2373,7 +2373,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 51.562 90.17 90)
+			(at 54.102 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2384,7 +2384,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 90.17 0)
+			(at 55.88 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2395,7 +2395,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 53.34 90.17 0)
+			(at 55.88 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2988,7 +2988,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 57.15 100.33 0)
+		(at 55.88 97.79 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2999,27 +2999,29 @@
 		(fields_autoplaced yes)
 		(uuid "96d33d3e-6b7a-413e-9fa0-5be3cc20e412")
 		(property "Reference" "SW1"
-			(at 57.15 92.71 0)
+			(at 57.15 96.5199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 57.15 95.25 0)
+			(at 57.15 99.0599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 95.25 0)
+			(at 50.8 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3030,7 +3032,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 95.25 0)
+			(at 50.8 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3041,7 +3043,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 57.15 100.33 0)
+			(at 55.88 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
