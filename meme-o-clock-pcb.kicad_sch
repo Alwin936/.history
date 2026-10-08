@@ -912,6 +912,16 @@
 		)
 		(uuid "890bbc25-8699-472c-9ecb-cc836e2d8b3d")
 	)
+	(wire
+		(pts
+			(xy 92.71 120.65) (xy 92.71 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f4d8480-2c70-4db0-8aaf-84605d81a17b")
+	)
 	(symbol
 		(lib_id "MCU_Module:Arduino_Nano_ESP32")
 		(at 92.71 95.25 0)
