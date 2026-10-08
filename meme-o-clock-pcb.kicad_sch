@@ -3029,7 +3029,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5.1k"
 			(at 101.6 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
