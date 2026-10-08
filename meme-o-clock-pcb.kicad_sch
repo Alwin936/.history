@@ -2908,7 +2908,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 26.67 100.33 0)
+		(at 22.86 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2919,7 +2919,7 @@
 		(fields_autoplaced yes)
 		(uuid "880903e9-ccbd-466a-8a64-0a059f521fe3")
 		(property "Reference" "SW3"
-			(at 26.67 92.71 0)
+			(at 22.86 91.44 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2929,7 +2929,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 26.67 95.25 0)
+			(at 22.86 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2939,7 +2939,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 26.67 95.25 0)
+			(at 22.86 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2950,7 +2950,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 26.67 95.25 0)
+			(at 22.86 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2961,7 +2961,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 26.67 100.33 0)
+			(at 22.86 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3150,7 +3150,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 53.34 101.6 0)
+		(at 15.24 107.95 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3161,7 +3161,7 @@
 		(fields_autoplaced yes)
 		(uuid "bac4be6d-5443-4599-8d33-0dac11bae98f")
 		(property "Reference" "R3"
-			(at 55.88 100.3299 0)
+			(at 17.78 106.6799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3172,7 +3172,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 55.88 102.8699 0)
+			(at 17.78 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3183,7 +3183,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 51.562 101.6 90)
+			(at 13.462 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3194,7 +3194,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 53.34 101.6 0)
+			(at 15.24 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3205,7 +3205,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 53.34 101.6 0)
+			(at 15.24 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
