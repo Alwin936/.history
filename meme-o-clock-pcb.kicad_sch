@@ -789,7 +789,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 165.1 60.96 0)
+		(at 165.1 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -800,7 +800,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e59178b-d0e3-4162-b86e-507a5d6ff9a6")
 		(property "Reference" "#PWR01"
-			(at 165.1 64.77 0)
+			(at 165.1 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -811,7 +811,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 165.1 55.88 0)
+			(at 165.1 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -821,7 +821,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 60.96 0)
+			(at 165.1 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -832,7 +832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 60.96 0)
+			(at 165.1 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -843,7 +843,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 165.1 60.96 0)
+			(at 165.1 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
