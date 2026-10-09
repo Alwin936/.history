@@ -4912,6 +4912,12 @@
 		(uuid "6a5b08ac-2521-4e7c-acaa-b25445d710d5")
 	)
 	(junction
+		(at 245.11 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75aab56a-269d-4539-91e0-50e44694ee02")
+	)
+	(junction
 		(at 55.88 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5040,6 +5046,16 @@
 			(type default)
 		)
 		(uuid "0c69773b-6d7a-4ea3-a7d1-c80ced1489a6")
+	)
+	(wire
+		(pts
+			(xy 242.57 140.97) (xy 245.11 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d4ce979-9bf3-49e1-8933-ed685caf514b")
 	)
 	(wire
 		(pts
@@ -5203,6 +5219,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 115.57) (xy 219.71 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29ac9328-5062-4eaf-821a-acb883568581")
+	)
+	(wire
+		(pts
 			(xy 137.16 107.95) (xy 137.16 113.03)
 		)
 		(stroke
@@ -5210,6 +5236,16 @@
 			(type default)
 		)
 		(uuid "2a4eea47-799d-437f-98ed-7c96193ad6b2")
+	)
+	(wire
+		(pts
+			(xy 219.71 115.57) (xy 219.71 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a6bcb98-5f2f-467f-a16d-d944f1c2d80d")
 	)
 	(wire
 		(pts
@@ -5573,6 +5609,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 138.43) (xy 242.57 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6087dd9f-cfcc-4a6d-b0b2-6626b6a278d7")
+	)
+	(wire
+		(pts
 			(xy 187.96 125.73) (xy 187.96 71.12)
 		)
 		(stroke
@@ -5620,6 +5666,16 @@
 			(type default)
 		)
 		(uuid "65b679a2-908a-4927-8081-9f609c2b1ca8")
+	)
+	(wire
+		(pts
+			(xy 242.57 118.11) (xy 222.25 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69f0e076-991e-466c-80c7-f2ad1180ad61")
 	)
 	(wire
 		(pts
@@ -5733,6 +5789,26 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 140.97) (xy 245.11 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7acb7f37-63ac-40f3-8f2a-f4c60f50987a")
+	)
+	(wire
+		(pts
+			(xy 270.51 127) (xy 242.57 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c21a96f-2359-4d12-a855-705755d27378")
+	)
+	(wire
+		(pts
 			(xy 276.86 71.12) (xy 276.86 74.93)
 		)
 		(stroke
@@ -5740,6 +5816,16 @@
 			(type default)
 		)
 		(uuid "81747d22-66f8-4746-b30c-ce15b6290843")
+	)
+	(wire
+		(pts
+			(xy 196.85 161.29) (xy 196.85 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82951445-1c73-40ac-b3ab-d4153c9ead4b")
 	)
 	(wire
 		(pts
@@ -5943,6 +6029,26 @@
 	)
 	(wire
 		(pts
+			(xy 242.57 143.51) (xy 245.11 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a275be08-0ad3-4838-97f0-f0af6cc67d37")
+	)
+	(wire
+		(pts
+			(xy 222.25 118.11) (xy 222.25 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4905b02-a54a-4090-a6c2-931445506457")
+	)
+	(wire
+		(pts
 			(xy 224.79 63.5) (xy 224.79 72.39)
 		)
 		(stroke
@@ -6013,6 +6119,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 129.54) (xy 241.3 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b37e8eff-c5fb-4a67-8f74-6036d2486737")
+	)
+	(wire
+		(pts
 			(xy 66.04 132.08) (xy 66.04 107.95)
 		)
 		(stroke
@@ -6030,6 +6146,16 @@
 			(type default)
 		)
 		(uuid "b8229e29-f1d2-4ca8-912c-12ff8b7e276d")
+	)
+	(wire
+		(pts
+			(xy 242.57 127) (xy 242.57 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baa01852-114d-461d-92bb-62402113afc8")
 	)
 	(wire
 		(pts
@@ -6123,6 +6249,16 @@
 	)
 	(wire
 		(pts
+			(xy 245.11 143.51) (xy 245.11 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db36203b-762b-4e81-b7f8-ce9397f114f1")
+	)
+	(wire
+		(pts
 			(xy 275.59 90.17) (xy 278.13 90.17)
 		)
 		(stroke
@@ -6130,6 +6266,16 @@
 			(type default)
 		)
 		(uuid "dcd2a626-e7f7-48a5-b2d3-e8441b0913ca")
+	)
+	(wire
+		(pts
+			(xy 270.51 129.54) (xy 241.3 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df0f35b6-b4ab-4d84-9673-d0fb3e828ec3")
 	)
 	(wire
 		(pts
@@ -6466,6 +6612,84 @@
 			(project "meme-o-clock-pcb"
 				(path "/0620bf13-338c-4a63-8476-6a1247212071"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 196.85 162.56 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1b3d1671-07ff-4f72-81ae-a70e6d05b462")
+		(property "Reference" "#PWR027"
+			(at 196.85 158.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 196.85 167.64 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 196.85 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8e1c1a0e-d068-48a1-af1e-535b00b38748")
+		)
+		(instances
+			(project "meme-o-clock-pcb"
+				(path "/0620bf13-338c-4a63-8476-6a1247212071"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -9212,6 +9436,85 @@
 			(project "meme-o-clock-pcb"
 				(path "/0620bf13-338c-4a63-8476-6a1247212071"
 					(reference "#PWR019")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 245.11 140.97 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3e52abf-e7a9-41de-a8a4-64e4d392b6be")
+		(property "Reference" "#PWR026"
+			(at 251.46 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 248.92 140.9699 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 245.11 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 245.11 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 245.11 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f83c71fb-a50b-4254-84e0-a87ab9cdecb1")
+		)
+		(instances
+			(project "meme-o-clock-pcb"
+				(path "/0620bf13-338c-4a63-8476-6a1247212071"
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
