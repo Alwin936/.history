@@ -4158,16 +4158,6 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 115.57) (xy 219.71 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "29ac9328-5062-4eaf-821a-acb883568581")
-	)
-	(wire
-		(pts
 			(xy 137.16 107.95) (xy 137.16 113.03)
 		)
 		(stroke
@@ -4585,16 +4575,6 @@
 			(type default)
 		)
 		(uuid "65b679a2-908a-4927-8081-9f609c2b1ca8")
-	)
-	(wire
-		(pts
-			(xy 242.57 118.11) (xy 222.25 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "69f0e076-991e-466c-80c7-f2ad1180ad61")
 	)
 	(wire
 		(pts
@@ -7370,84 +7350,6 @@
 			(project "meme-o-clock-pcb"
 				(path "/0620bf13-338c-4a63-8476-6a1247212071"
 					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 278.13 118.11 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "83404f68-025a-479d-9c4f-e0780137ebbd")
-		(property "Reference" "#PWR024"
-			(at 278.13 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 278.13 113.03 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 278.13 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 278.13 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 278.13 118.11 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d7a9590a-9608-4ba1-9c74-6d9d638ef944")
-		)
-		(instances
-			(project "meme-o-clock-pcb"
-				(path "/0620bf13-338c-4a63-8476-6a1247212071"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
