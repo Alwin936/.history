@@ -4143,6 +4143,16 @@
 	)
 	(wire
 		(pts
+			(xy 274.32 82.55) (xy 278.13 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42ff79ed-4c8d-4544-b322-6e01ef9c4c40")
+	)
+	(wire
+		(pts
 			(xy 143.51 95.25) (xy 153.67 95.25)
 		)
 		(stroke
@@ -4573,16 +4583,6 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 82.55) (xy 278.13 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bc93369-1d25-4dec-8f74-b05130a18cf5")
-	)
-	(wire
-		(pts
 			(xy 153.67 106.68) (xy 153.67 107.95)
 		)
 		(stroke
@@ -4730,6 +4730,16 @@
 			(type default)
 		)
 		(uuid "a749e354-a2ff-4865-8a47-f6dac82edeb2")
+	)
+	(wire
+		(pts
+			(xy 274.32 111.76) (xy 274.32 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a902e503-aab8-45ac-b800-b1d53dd9e5cb")
 	)
 	(wire
 		(pts
@@ -4960,6 +4970,16 @@
 			(type default)
 		)
 		(uuid "f9153ca6-5239-4bde-9dea-62055f56e7a3")
+	)
+	(wire
+		(pts
+			(xy 142.24 111.76) (xy 274.32 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb6de629-5ef0-4aa3-8901-9f5b13b92f24")
 	)
 	(symbol
 		(lib_id "Sensor_Optical:APDS-9306")
