@@ -2794,16 +2794,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 148.59) (xy 71.12 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14ae4133-ccac-4dcf-a197-bfbde0e93cd4")
-	)
-	(wire
-		(pts
 			(xy 205.74 88.9) (xy 205.74 90.17)
 		)
 		(stroke
@@ -3391,16 +3381,6 @@
 			(type default)
 		)
 		(uuid "d457ecd2-4586-43ed-b587-53553b851e3d")
-	)
-	(wire
-		(pts
-			(xy 139.7 77.47) (xy 139.7 148.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d9abd5cb-399f-4902-bed7-759e0c24c774")
 	)
 	(wire
 		(pts
