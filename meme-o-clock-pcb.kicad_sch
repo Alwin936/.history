@@ -3616,12 +3616,6 @@
 		(uuid "06b33a4a-ac36-41be-a75c-4933c119135c")
 	)
 	(junction
-		(at 153.67 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "14be3933-3e13-4e26-ad4f-79ae2cc3a640")
-	)
-	(junction
 		(at 55.88 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3664,13 +3658,13 @@
 		(uuid "b5c6081f-4c3e-4bf8-924b-e5c820ed0766")
 	)
 	(junction
-		(at 55.88 173.99)
+		(at 153.67 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bcd3cbdc-1bb2-4c32-bc21-aa4a5935e0cc")
 	)
 	(junction
-		(at 55.88 161.29)
+		(at 153.67 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c6bbd032-6263-426d-8950-ed97d5873a2a")
@@ -3689,7 +3683,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 171.45) (xy 45.72 173.99)
+			(xy 143.51 105.41) (xy 143.51 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3819,7 +3813,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 151.13) (xy 55.88 152.4)
+			(xy 153.67 85.09) (xy 153.67 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3859,7 +3853,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 193.04) (xy 71.12 92.71)
+			(xy 71.12 127) (xy 71.12 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4059,7 +4053,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 163.83) (xy 45.72 161.29)
+			(xy 143.51 97.79) (xy 143.51 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4069,7 +4063,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 160.02) (xy 55.88 161.29)
+			(xy 153.67 93.98) (xy 153.67 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4079,23 +4073,13 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 161.29) (xy 55.88 161.29)
+			(xy 143.51 95.25) (xy 153.67 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "4379f19f-a631-4c08-b0ed-53eaea7e45e0")
-	)
-	(wire
-		(pts
-			(xy 153.67 173.99) (xy 153.67 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44b5a2f1-dc65-491b-b36f-26b78c653b45")
 	)
 	(wire
 		(pts
@@ -4139,7 +4123,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 161.29) (xy 63.5 193.04)
+			(xy 161.29 95.25) (xy 161.29 127)
 		)
 		(stroke
 			(width 0)
@@ -4149,7 +4133,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 171.45) (xy 44.45 177.8)
+			(xy 142.24 105.41) (xy 142.24 111.76)
 		)
 		(stroke
 			(width 0)
@@ -4309,7 +4293,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 171.45) (xy 44.45 171.45)
+			(xy 130.81 105.41) (xy 142.24 105.41)
 		)
 		(stroke
 			(width 0)
@@ -4339,7 +4323,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 193.04) (xy 71.12 193.04)
+			(xy 161.29 127) (xy 71.12 127)
 		)
 		(stroke
 			(width 0)
@@ -4396,16 +4380,6 @@
 			(type default)
 		)
 		(uuid "6de514ce-45fc-4ace-80f1-e536275b1353")
-	)
-	(wire
-		(pts
-			(xy 33.02 171.45) (xy 130.81 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72efee4a-c602-491a-b323-79ad0687807f")
 	)
 	(wire
 		(pts
@@ -4539,7 +4513,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 172.72) (xy 55.88 173.99)
+			(xy 153.67 106.68) (xy 153.67 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4559,7 +4533,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 161.29) (xy 55.88 162.56)
+			(xy 153.67 95.25) (xy 153.67 96.52)
 		)
 		(stroke
 			(width 0)
@@ -4719,23 +4693,13 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 177.8) (xy 276.86 177.8)
+			(xy 142.24 111.76) (xy 276.86 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "b32735ee-78f0-4c9b-bc05-08271909ca1b")
-	)
-	(wire
-		(pts
-			(xy 55.88 173.99) (xy 153.67 107.95)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b68f0565-ba64-418a-a960-75d12f29b35c")
 	)
 	(wire
 		(pts
@@ -4749,7 +4713,7 @@
 	)
 	(wire
 		(pts
-			(xy 276.86 177.8) (xy 276.86 87.63)
+			(xy 276.86 111.76) (xy 276.86 87.63)
 		)
 		(stroke
 			(width 0)
@@ -4759,7 +4723,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 161.29) (xy 63.5 161.29)
+			(xy 153.67 95.25) (xy 161.29 95.25)
 		)
 		(stroke
 			(width 0)
@@ -4819,7 +4783,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 173.99) (xy 153.67 173.99)
+			(xy 143.51 107.95) (xy 153.67 107.95)
 		)
 		(stroke
 			(width 0)
@@ -5330,7 +5294,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 55.88 151.13 0)
+		(at 153.67 85.09 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5341,7 +5305,7 @@
 		(fields_autoplaced yes)
 		(uuid "27e72927-884b-47f8-8def-538ae04d5414")
 		(property "Reference" "#PWR05"
-			(at 55.88 154.94 0)
+			(at 153.67 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5352,7 +5316,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 55.88 146.05 0)
+			(at 153.67 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5362,7 +5326,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 55.88 151.13 0)
+			(at 153.67 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5373,7 +5337,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 151.13 0)
+			(at 153.67 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5384,7 +5348,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 55.88 151.13 0)
+			(at 153.67 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5572,7 +5536,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 55.88 167.64 90)
+		(at 153.67 101.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5583,7 +5547,7 @@
 		(fields_autoplaced yes)
 		(uuid "33c11943-9406-4671-ad98-58556de78b9e")
 		(property "Reference" "SW2"
-			(at 57.15 166.3699 90)
+			(at 154.94 100.3299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5594,7 +5558,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 57.15 168.9099 90)
+			(at 154.94 102.8699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5605,7 +5569,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 167.64 0)
+			(at 148.59 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5616,7 +5580,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 167.64 0)
+			(at 148.59 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5627,7 +5591,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 55.88 167.64 0)
+			(at 153.67 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7185,7 +7149,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 45.72 167.64 0)
+		(at 143.51 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7196,7 +7160,7 @@
 		(fields_autoplaced yes)
 		(uuid "a37a4d67-954b-4a6d-ba28-40412b291f72")
 		(property "Reference" "C2"
-			(at 49.53 166.3699 0)
+			(at 147.32 100.3299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7207,7 +7171,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 49.53 168.9099 0)
+			(at 147.32 102.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7218,7 +7182,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 46.6852 171.45 0)
+			(at 144.4752 105.41 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7229,7 +7193,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 167.64 0)
+			(at 143.51 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7240,7 +7204,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 45.72 167.64 0)
+			(at 143.51 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7741,7 +7705,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 55.88 156.21 0)
+		(at 153.67 90.17 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7752,7 +7716,7 @@
 		(fields_autoplaced yes)
 		(uuid "c67199f0-91fd-4cad-9a36-53ba03078401")
 		(property "Reference" "R2"
-			(at 58.42 154.9399 0)
+			(at 156.21 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7763,7 +7727,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 58.42 157.4799 0)
+			(at 156.21 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7774,7 +7738,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.102 156.21 90)
+			(at 151.892 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7785,7 +7749,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 156.21 0)
+			(at 153.67 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7796,7 +7760,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 55.88 156.21 0)
+			(at 153.67 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
