@@ -2647,6 +2647,12 @@
 		(uuid "280b4458-2838-46b1-939d-41cec5c72f3c")
 	)
 	(junction
+		(at 208.28 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39fa4aba-4596-43ec-96ea-40f9e50554c1")
+	)
+	(junction
 		(at 55.88 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2711,6 +2717,16 @@
 			(type default)
 		)
 		(uuid "01e8b224-4ae1-4dc1-9804-e5322a753d11")
+	)
+	(wire
+		(pts
+			(xy 180.34 66.04) (xy 180.34 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "048046b9-b511-41f2-9cfa-012ae73188c9")
 	)
 	(wire
 		(pts
@@ -2824,6 +2840,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 62.23) (xy 208.28 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ebcfd8d-f2fa-40d4-8004-d0c1e702bb7f")
+	)
+	(wire
+		(pts
 			(xy 66.04 91.44) (xy 66.04 87.63)
 		)
 		(stroke
@@ -2881,6 +2907,16 @@
 			(type default)
 		)
 		(uuid "39bd5b8b-5cbe-4bfe-8fb6-6bb73508cd7a")
+	)
+	(wire
+		(pts
+			(xy 208.28 62.23) (xy 208.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a6d893e-1e88-4d3e-925d-9a07f9241547")
 	)
 	(wire
 		(pts
@@ -3204,13 +3240,23 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 60.96) (xy 208.28 63.5)
+			(xy 208.28 60.96) (xy 208.28 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "789b022b-4e0c-4ae8-bb10-ef789cb723f7")
+	)
+	(wire
+		(pts
+			(xy 180.34 78.74) (xy 180.34 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "791531ef-9d17-4d8a-b706-6b0ae1c7453d")
 	)
 	(wire
 		(pts
@@ -3491,6 +3537,16 @@
 			(type default)
 		)
 		(uuid "e470af42-483c-4e6c-a61b-789bff09de3d")
+	)
+	(wire
+		(pts
+			(xy 195.58 78.74) (xy 180.34 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6781e4a-e3bf-4357-9f1f-6d8f0bca1285")
 	)
 	(wire
 		(pts
@@ -6587,6 +6643,88 @@
 			(project "meme-o-clock-pcb"
 				(path "/0620bf13-338c-4a63-8476-6a1247212071"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 180.34 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdd0c681-8d08-4090-af3d-ae1d9a442515")
+		(property "Reference" "R7"
+			(at 182.88 68.5799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "634k"
+			(at 182.88 71.1199 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 178.562 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 180.34 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9b29307a-47df-4aca-8b13-300fccf74681")
+		)
+		(pin "2"
+			(uuid "846d343e-2b6b-4bae-9c71-212fba68c3a7")
+		)
+		(instances
+			(project "meme-o-clock-pcb"
+				(path "/0620bf13-338c-4a63-8476-6a1247212071"
+					(reference "R7")
 					(unit 1)
 				)
 			)
