@@ -4063,16 +4063,6 @@
 	)
 	(wire
 		(pts
-			(xy 275.59 113.03) (xy 275.59 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a1d355d-5bc5-4735-b095-1828ac493d5a")
-	)
-	(wire
-		(pts
 			(xy 208.28 60.96) (xy 208.28 63.5)
 		)
 		(stroke
@@ -4080,16 +4070,6 @@
 			(type default)
 		)
 		(uuid "3a6d893e-1e88-4d3e-925d-9a07f9241547")
-	)
-	(wire
-		(pts
-			(xy 276.86 87.63) (xy 278.13 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3b2cbd0a-5f93-4d25-8a87-9ff01795b5c1")
 	)
 	(wire
 		(pts
@@ -4200,16 +4180,6 @@
 			(type default)
 		)
 		(uuid "4b437ad1-c6d2-41f6-b363-69eb81c45c91")
-	)
-	(wire
-		(pts
-			(xy 276.86 85.09) (xy 278.13 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d5de010-12a7-45b3-bd29-7f46ae221cb2")
 	)
 	(wire
 		(pts
@@ -4703,6 +4673,16 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 85.09) (xy 278.13 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ad0282a-d939-41b0-95d2-75c5c1b5a137")
+	)
+	(wire
+		(pts
 			(xy 189.23 73.66) (xy 195.58 73.66)
 		)
 		(stroke
@@ -4793,16 +4773,6 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 111.76) (xy 276.86 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b32735ee-78f0-4c9b-bc05-08271909ca1b")
-	)
-	(wire
-		(pts
 			(xy 66.04 132.08) (xy 66.04 107.95)
 		)
 		(stroke
@@ -4820,16 +4790,6 @@
 			(type default)
 		)
 		(uuid "b8229e29-f1d2-4ca8-912c-12ff8b7e276d")
-	)
-	(wire
-		(pts
-			(xy 276.86 111.76) (xy 276.86 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "babcf9aa-77bb-4243-ac26-81b314703747")
 	)
 	(wire
 		(pts
@@ -4860,6 +4820,16 @@
 			(type default)
 		)
 		(uuid "c8bd6ea4-6207-446b-8baa-300f4bfd0c25")
+	)
+	(wire
+		(pts
+			(xy 275.59 85.09) (xy 275.59 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8e6b1bc-77ec-41a9-932d-0c38e374fcd2")
 	)
 	(wire
 		(pts
@@ -4910,16 +4880,6 @@
 			(type default)
 		)
 		(uuid "d457ecd2-4586-43ed-b587-53553b851e3d")
-	)
-	(wire
-		(pts
-			(xy 275.59 90.17) (xy 278.13 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcd2a626-e7f7-48a5-b2d3-e8441b0913ca")
 	)
 	(wire
 		(pts
@@ -7520,85 +7480,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 276.86 82.55 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a5c19500-91c1-419f-96dc-aec1fe2d22b5")
-		(property "Reference" "#PWR018"
-			(at 270.51 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 273.05 82.5499 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 276.86 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 276.86 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 276.86 82.55 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "35181cc9-ef02-41c8-a6ee-cee923cdc150")
-		)
-		(instances
-			(project "meme-o-clock-pcb"
-				(path "/0620bf13-338c-4a63-8476-6a1247212071"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+5V")
 		(at 208.28 60.96 0)
 		(unit 1)
@@ -7671,85 +7552,6 @@
 			(project "meme-o-clock-pcb"
 				(path "/0620bf13-338c-4a63-8476-6a1247212071"
 					(reference "#PWR017")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 276.86 85.09 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae963b74-19af-4f23-92ce-04635b863560")
-		(property "Reference" "#PWR019"
-			(at 280.67 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 273.05 85.0899 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 276.86 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 276.86 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 276.86 85.09 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "16ce0ec0-6460-4d88-94a4-8c23a640763c")
-		)
-		(instances
-			(project "meme-o-clock-pcb"
-				(path "/0620bf13-338c-4a63-8476-6a1247212071"
-					(reference "#PWR019")
 					(unit 1)
 				)
 			)
