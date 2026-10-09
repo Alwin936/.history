@@ -2670,6 +2670,12 @@
 		(color 0 0 0 0)
 		(uuid "ef2d6193-772c-4b04-8a59-6273c61f6023")
 	)
+	(junction
+		(at 208.28 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb487373-0760-4818-8289-a5dc0cd84d23")
+	)
 	(wire
 		(pts
 			(xy 143.51 105.41) (xy 143.51 107.95)
@@ -2679,6 +2685,26 @@
 			(type default)
 		)
 		(uuid "00266a8e-fd7a-4983-8337-065baac5e8eb")
+	)
+	(wire
+		(pts
+			(xy 190.5 72.39) (xy 190.5 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "008331d0-4943-48d6-9425-9859cee9c504")
+	)
+	(wire
+		(pts
+			(xy 190.5 63.5) (xy 208.28 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01e8b224-4ae1-4dc1-9804-e5322a753d11")
 	)
 	(wire
 		(pts
@@ -5693,6 +5719,88 @@
 			(project "meme-o-clock-pcb"
 				(path "/0620bf13-338c-4a63-8476-6a1247212071"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 190.5 76.2 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc984ac8-18aa-4a10-a31a-a28efa512885")
+		(property "Reference" "C5"
+			(at 194.31 74.9299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10u"
+			(at 194.31 77.4699 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.4652 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 190.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 190.5 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1364be35-4857-45f6-a6ae-42e89176772f")
+		)
+		(pin "2"
+			(uuid "9612db36-f1d4-4557-a417-5f799a6b1d4c")
+		)
+		(instances
+			(project "meme-o-clock-pcb"
+				(path "/0620bf13-338c-4a63-8476-6a1247212071"
+					(reference "C5")
 					(unit 1)
 				)
 			)
