@@ -1015,7 +1015,7 @@
 		(property "Reference" "R1"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
-			(uuid "b3f863fd-6ecd-40e7-9720-7b3112c7dcf0")
+			(uuid "3fcf0a61-faaf-4652-ae17-d8724e347a3a")
 			(effects
 				(font
 					(size 1 1)
@@ -1026,7 +1026,7 @@
 		(property "Value" "10k"
 			(at 0 1.43 0)
 			(layer "F.Fab")
-			(uuid "a10feb5e-506a-4797-a769-904ff26d864d")
+			(uuid "892c4265-a09a-4299-9940-57469883ce70")
 			(effects
 				(font
 					(size 1 1)
@@ -1038,7 +1038,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a0f26221-0368-4512-b648-de5f6be0099f")
+			(uuid "87d9b9ab-05bd-4f81-93b0-ee82369dbaaa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1049,7 +1049,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "381bfd44-9325-4b96-88cf-f4161a7b28c7")
+			(uuid "451f1b07-bbc7-4f3e-9e86-6b396e7bdb37")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1136,7 +1136,7 @@
 		(pad "1" smd roundrect
 			(at -0.825 0)
 			(size 0.8 0.95)
-			(layers "F.Mask" "B.Cu" "F.Paste")
+			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
 			(net "+3V3")
 			(pintype "passive")
