@@ -8209,6 +8209,22 @@
 		(uuid "a780cd70-fce3-4ccb-8362-279e084fb3d3")
 	)
 	(segment
+		(start 80.25 113.65)
+		(end 80.2 113.7)
+		(width 0.4)
+		(layer "F.Cu")
+		(net "+3V3")
+		(uuid "87086004-196d-4189-aebd-15a12a0e134d")
+	)
+	(segment
+		(start 80.425 113.65)
+		(end 80.25 113.65)
+		(width 0.4)
+		(layer "F.Cu")
+		(net "+3V3")
+		(uuid "8d3977f3-63c0-47c2-a37e-0269c9db675f")
+	)
+	(segment
 		(start 82.625 73.925)
 		(end 82.45 73.75)
 		(width 0.2)
